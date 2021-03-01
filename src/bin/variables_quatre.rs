@@ -1,0 +1,3 @@
+fn main() {
+    let x = 42u8; // Je suis moins fan mais les goûts et les couleurs...
+}
